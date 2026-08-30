@@ -15,7 +15,9 @@ Recall/
 │   │   │   ├── recordings.py
 │   │   │   └── query.py
 │   │   ├── services/
-│   │   │   ├── memory_service.py
+│   │   │   ├── media_service.py
+│   │   │   └── memory_service.py
+│   │   │   └── query_service.py
 │   │   │   └── retrieval_service.py
 │   │   ├── ai/
 │   │   │   ├── factory.py
